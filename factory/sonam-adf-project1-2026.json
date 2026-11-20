@@ -1,0 +1,16 @@
+{
+	"name": "sonam-adf-project1-2026",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f37cae0-d197-4d2b-9445-1b84ac39bebe",
+		"tenantId": "c22dce6f-9172-499c-8fbb-780fe00fad65"
+	}
+}
